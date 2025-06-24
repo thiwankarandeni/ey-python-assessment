@@ -8,6 +8,13 @@ This project is a contains a simple Python script that sends emails using the `s
 - Sends an email via SMTP (e.g., Gmail) using `smtplib` library
 - Can be scheduled to run automatically using CRON or Windows Task Scheduler(e.g., daily)
 
+## 📷 Screenshots of Task Scheduler
+
+![Screenshot1](images/task_scheduler_screenshot_1.png)
+![Screenshot2](images/task_scheduler_screenshot_2.png)
+![Screenshot3](images/task_scheduler_screenshot_3.png)
+![Screenshot4](images/task_scheduler_screenshot_4.png)
+
 ## 🛠 Requirements
 
 - Python 3.9
