@@ -44,9 +44,9 @@ def get_previous_stock_price():
 # Send an email alert if the stock price changes significantly
 def send_email_alert(stock_price, previous_price, difference, percentage_change):
     # Email credentials
-    sender_email = "thiwankaxvii@gmail.com"
+    sender_email = "thiwanka-test@gmail.com"
     receiver_email = "randenit@yahoo.com"
-    password = "qoamdwvoxoldwqso"
+    password = "my-password"
 
     # Set up message
     message = MIMEMultipart()
